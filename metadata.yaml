@@ -1,5 +1,8 @@
 _repo: Wilhelm-Meisters-Lehrjahre-Band-8_2342
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goethe, Johann Wolfgang von
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/586
     wikipedia: http://en.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2342#Wilhelm-Meisters-Lehrjahre-Band-8
 gutenberg_bookshelf:
 - Harvard Classics
 - Opera
